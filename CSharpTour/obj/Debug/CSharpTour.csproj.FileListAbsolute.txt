@@ -1,1 +1,6 @@
 C:\Devel\VisalStudio\Projects\CSharpTour\CSharpTour\bin\Debug\CSharpTour.exe.config
+C:\Devel\VisalStudio\Projects\CSharpTour\CSharpTour\bin\Debug\CSharpTour.exe
+C:\Devel\VisalStudio\Projects\CSharpTour\CSharpTour\bin\Debug\CSharpTour.pdb
+C:\Devel\VisalStudio\Projects\CSharpTour\CSharpTour\obj\Debug\CSharpTour.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\CSharpTour\CSharpTour\obj\Debug\CSharpTour.exe
+C:\Devel\VisalStudio\Projects\CSharpTour\CSharpTour\obj\Debug\CSharpTour.pdb
