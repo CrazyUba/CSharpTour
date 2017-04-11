@@ -1,0 +1,5 @@
+C:\Devel\VisalStudio\Projects\CSharpTour\WebRequest\bin\Debug\WebRequest.exe.config
+C:\Devel\VisalStudio\Projects\CSharpTour\WebRequest\bin\Debug\WebRequest.exe
+C:\Devel\VisalStudio\Projects\CSharpTour\WebRequest\bin\Debug\WebRequest.pdb
+C:\Devel\VisalStudio\Projects\CSharpTour\WebRequest\obj\Debug\WebRequest.exe
+C:\Devel\VisalStudio\Projects\CSharpTour\WebRequest\obj\Debug\WebRequest.pdb

@@ -1,0 +1,6 @@
+C:\Devel\VisalStudio\Projects\CSharpTour\WebTool\bin\Debug\WebTool.exe.config
+C:\Devel\VisalStudio\Projects\CSharpTour\WebTool\bin\Debug\WebTool.exe
+C:\Devel\VisalStudio\Projects\CSharpTour\WebTool\bin\Debug\WebTool.pdb
+C:\Devel\VisalStudio\Projects\CSharpTour\WebTool\obj\Debug\WebTool.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\CSharpTour\WebTool\obj\Debug\WebTool.exe
+C:\Devel\VisalStudio\Projects\CSharpTour\WebTool\obj\Debug\WebTool.pdb
